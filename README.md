@@ -29,5 +29,5 @@ I'm a passionate **Full Stack & Mobile Developer** with expertise in building ro
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) (if applicable, but not listed, maybe add generic CI/CD badge)
 
-💞️ I’m looking to collaborate on project to help me improve
+💞️ I’m looking to collaborate on project
 📫 How to reach me owoseniadekunle94@gmail.com or whatsApp +2348142562389
